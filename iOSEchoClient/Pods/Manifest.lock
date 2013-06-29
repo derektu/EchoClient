@@ -1,0 +1,25 @@
+PODS:
+  - AFNetworking (1.3.1)
+  - BlocksKit (1.8.2):
+    - libffi
+  - CocoaAsyncSocket (7.3.1)
+  - libffi (3.0.13)
+  - socket.IO (0.3.2):
+    - SocketRocket (~> 0.2)
+  - SocketRocket (0.2.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - BlocksKit
+  - CocoaAsyncSocket
+  - socket.IO
+
+SPEC CHECKSUMS:
+  AFNetworking: 9ec8aafb9269236a7630bd8d9838ce2ba30fa2a0
+  BlocksKit: 7396526b0816734103f6133fbb1a520c8b04e80c
+  CocoaAsyncSocket: 6e59036ecae1e93d6c78f5766149983ceac558ba
+  libffi: 64ef39353e747bb2b25e1026afd96a157bf9231c
+  socket.IO: fd9cc11d061fad7b4e1d4accc2fc143af0b06d41
+  SocketRocket: bca43a94bd9aac3a629df42c06843402399ee67b
+
+COCOAPODS: 0.20.2
